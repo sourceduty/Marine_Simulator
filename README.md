@@ -1,6 +1,6 @@
 ![Marine Simulator](https://github.com/user-attachments/assets/0f1fe7e5-5295-415d-9ae2-a2019934f32a)
 
-> Marine data analysis and visualization expert using Python.
+> Marine data, programming, research and environment simulator. 
 
 #
 
